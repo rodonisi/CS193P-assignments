@@ -71,23 +71,12 @@ struct CardView: View {
                             (isMatch ?? false) && card.isSelected ? 360 : 0
                         )
                     )
-                    .animation(
-                        card.isSelected
-                            ? .easeInOut(duration: 2).repeatForever()
-                            : .default,
-                        value: isMatch
-                    )
             }
         }
         .foregroundColor(color)
         .padding()
         .opacity(!(isMatch ?? true) && card.isSelected ? 0.5 : 1.0)
         .scaleEffect(!(isMatch ?? true) && card.isSelected ? 0.8 : 1.0)
-        .animation(
-            card.isSelected
-                ? .easeInOut(duration: 1).repeatForever() : .default,
-            value: isMatch
-        )
         .cardify(isFaceUp: card.state != .undealt && faceUp)
         .foregroundColor(cardColor)
     }
