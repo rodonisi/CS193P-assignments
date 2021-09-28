@@ -8,6 +8,7 @@ This folder contains the solution to the [1st assignment](https://cs193p.sites.s
 
 ## Screenshots
 
-| | | |
-| - | - | - |
-| ![](https://github.com/rodonisi/CS193P-assignments/blob/main/assignment1/screenshots/memorize-theme0.png) | ![](https://github.com/rodonisi/CS193P-assignments/blob/main/assignment1/screenshots/memorize-theme1.png) | ![](https://github.com/rodonisi/CS193P-assignments/blob/main/assignment1/screenshots/memorize-theme2.png) |
+| ![](https://github.com/rodonisi/CS193P-assignments/blob/main/assignment1/screenshots/memorize-theme0.png) | ![](https://github.com/rodonisi/CS193P-assignments/blob/main/assignment1/screenshots/memorize-theme1.png) | ![](https://github.com/rodonisi/CS193P-assignments/blob/main/assignment1/screenshots/memorize-theme2.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+
