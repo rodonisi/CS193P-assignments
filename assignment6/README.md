@@ -6,3 +6,17 @@ This folder contains the solution to the [6th assignment](https://cs193p.sites.s
 * Provide a theme editor to edit existing theme
 * Allow the user to reorder, create, delete, and edit themes
 * Tweak the game UI to adapt to the new app layout
+
+## Screenshots
+
+### Theme Chooser
+
+| Theme Chooser                                                | Chooser Edit Mode                                            | New Theme                                                    | Theme Editor                                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![](https://github.com/rodonisi/CS193P-assignments/blob/main/assignment6/screenshots/light/memorize-chooser.png) | ![](https://github.com/rodonisi/CS193P-assignments/blob/main/assignment6/screenshots/light/memorize-chooser_edit.png) | ![](https://github.com/rodonisi/CS193P-assignments/blob/main/assignment6/screenshots/light/memorize-new_theme.png) | ![](https://github.com/rodonisi/CS193P-assignments/blob/main/assignment6/screenshots/light/memorize-theme_edit.png) |
+
+### Game
+
+| New Game                                                     | Started Game                                                 | Match                                                        | End Screen                                                   |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![](https://github.com/rodonisi/CS193P-assignments/blob/main/assignment6/screenshots/light/memorize-new_game.png) | ![](https://github.com/rodonisi/CS193P-assignments/blob/main/assignment6/screenshots/light/memorize-dealt.png) | ![](https://github.com/rodonisi/CS193P-assignments/blob/main/assignment6/screenshots/light/memorize-game.png) | ![](https://github.com/rodonisi/CS193P-assignments/blob/main/assignment6/screenshots/light/memorize-win.png) |
