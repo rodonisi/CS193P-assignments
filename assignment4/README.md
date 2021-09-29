@@ -6,6 +6,3 @@ This folder contains the solution to the [4th assignment](https://cs193p.sites.s
 
 | ![](https://github.com/rodonisi/CS193P-assignments/blob/main/assignment4/screenshots/set-restart.gif) | ![](https://github.com/rodonisi/CS193P-assignments/blob/main/assignment4/screenshots/set-mismatch.gif) | ![](https://github.com/rodonisi/CS193P-assignments/blob/main/assignment4/screenshots/set-match-deck.gif) | ![](https://github.com/rodonisi/CS193P-assignments/blob/main/assignment4/screenshots/set-match-click.gif) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              |                                                              |                                                              |                                                              |
-
-
